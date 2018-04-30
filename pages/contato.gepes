@@ -1,0 +1,7 @@
+[
+{ "id": 0, "tipo": 1, "texto": "Contato"},
+{ "id": 1, "tipo": 2, "texto": "Faculdade de Educa&ccedil;&atilde;o - UNICAMP"},
+{ "id": 2, "tipo": 2, "texto": "Av. Bertrand Russel, 801, Cidade Universit&aacute;ria Zeferino Vaz, Campinas - SP - Brasil"},
+{ "id": 3, "tipo": 2, "texto": "Fone: (19) 3521-5655, e-mail: gepes@unicamp.br"},
+{ "id": 4, "tipo": 3, "texto": "https://www.facebook.com/gepes.unicamp"}
+]

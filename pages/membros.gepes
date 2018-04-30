@@ -1,0 +1,16 @@
+[
+{ "id":0, "tipo":1, "texto":"Membros"},
+{ "id":1, "tipo":2, "texto":"Cássio Ricardo Fares Riedo", "aux":3},
+{ "id":9, "tipo":2, "texto":"Elisabete Monteiro de Aguiar Pereira", "aux":1},
+{ "id":11, "tipo":2, "texto":"Enrico Oliveira Rocheti", "aux":5},
+{ "id":2, "tipo":2, "texto":"Fabrízio Marchese", "aux":3},
+{ "id":3, "tipo":2, "texto":"Giuliano Salcas Olguin", "aux":3},
+{ "id":4, "tipo":2, "texto":"Gilberto Oliani", "aux":3},
+{ "id":10, "tipo":2, "texto":"José Camilo dos Santos Filho", "aux":1},
+{ "id":13, "tipo":2, "texto":"Joyce Wassem", "aux":1},
+{ "id":5, "tipo":2, "texto":"Maria Lúcia de Freitas Petrucci Ferreira", "aux":3},
+{ "id":6, "tipo":2, "texto":"Marta Fernandes Garcia", "aux":3},
+{ "id":7, "tipo":2, "texto":"Mirian Lúcia Gonçalves", "aux":3},
+{ "id":8, "tipo":2, "texto":"Rozana Carvalho Pereira", "aux":3},
+{ "id":12, "tipo":2, "texto":"Vitor Machado Rocha", "aux":5}
+]

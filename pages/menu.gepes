@@ -1,0 +1,8 @@
+[
+{ "id": 0, "submenu": 1, "texto": "In&iacute;cio", "classe": "noticias", "itens_submenu": [{"id":26, "submenu":0, "texto":"Not&iacute;cias", "classe":"noticias"},{"id":2, "submenu":0, "texto":"Hist&oacute;rico", "classe":"historico"},{"id":27, "submenu":0, "texto":"Linhas de pesquisa", "classe":"linhas"},{"id":28, "submenu":0, "texto":"Quem somos", "classe":"quemsomos"}]},
+{ "id": 1, "submenu": 1, "texto": "Informa&ccedil;&otilde;es", "classe": "", "itens_submenu": [{"id":3, "submenu":0, "texto":"Projetos", "classe":"projetos"},{"id":22, "submenu":0, "texto":"Teses", "classe":"teses"},{"id":4, "submenu":0, "texto":"Galeria de fotos", "classe":"fotos"},{"id":23, "submenu":0, "texto":"Galeria de v&iacute;deos", "classe":"videos"}]},
+{ "id": 5, "submenu": 1, "texto": "Membros", "classe": "", "itens_submenu": [{"id":6, "submenu":0, "texto":"Pesquisadores", "classe":"membros", "aux":1},{"id":25, "submenu":0, "texto":"Colaboradores", "classe":"membros", "aux":4},{"id":8, "submenu":0, "texto":"Doutorandos", "classe":"membros", "aux":3},{"id":7, "submenu":0, "texto":"Mestrandos", "classe":"membros", "aux":2},{"id":8, "submenu":0, "texto":"Graduandos", "classe":"membros", "aux":5},{"id":9, "submenu":0, "texto":"Todos", "classe":"membros"}]},
+{ "id": 10, "submenu": 0, "texto": "Eventos", "classe": "eventos"},
+{ "id": 12, "submenu": 0, "texto": "Contato", "classe": "contato"},
+{ "id": 29, "submenu": 0, "texto": "GIEPES", "classe": "giepes"}
+]

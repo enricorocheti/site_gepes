@@ -1,0 +1,5 @@
+[
+{ "id": 0, "tipo": 1, "texto": "Revista Internacional de Educa&ccedil&atilde;o Superior"},
+{ "id": 2, "tipo": 2, "texto": "A Revista RIES organiza tamb&eacute;m dossi&ecirc;s tem&aacute;ticos, com a finalidade de divulgar resultados de pesquisa e estudos cient&iacute;ficos sobre temas atuais. A chamada para dossi&ecirc;s tem&aacute;ticos atender&aacute; a edital espec&iacute;fico. Os temas do dossi&ecirc; devem estabelecer debate em torno de assuntos contempor&acirc;neos e relevantes &agrave; &aacute;rea da educa&ccedil;&atilde;o superior."},
+{ "id": 3, "tipo": 3, "texto": "Acesse a p&aacute;gina da revista para mais informa&ccedil;&otilde;es", "link":"https://www.fe.unicamp.br/revistas/ged/RIESup"}
+]

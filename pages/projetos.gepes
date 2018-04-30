@@ -1,0 +1,8 @@
+[
+{ "id": 0, "tipo": 1, "texto": "Projetos"},
+{ "id": 1, "tipo": 3, "texto": "A Forma&ccedil;&atilde;o universit&aacute;ria na perspectiva de uma educa&ccedil;&atilde;o geral", "link": "uploads/PROJETO1.doc"},
+{ "id": 2, "tipo": 3, "texto": "O Curr&iacute;culo para al&eacute;m da perspectiva da modernidade", "link": "uploads/PROJETO2.doc"},
+{ "id": 3, "tipo": 3, "texto": "Tend&ecirc;ncias curriculares na forma&ccedil;&atilde;o do universit&aacute;rio: a vis&atilde;o dos docentes das institui&ccedil;&otilde;es educacionais brasileiras (IEs)", "link": "uploads/PROJETO3.doc"},
+{ "id": 4, "tipo": 3, "texto": "A dimens&atilde;o da pr&aacute;tica na forma&ccedil;&atilde;o dos professores do ensino fundamental", "link": "uploads/PROJETO4.doc"},
+{ "id": 5, "tipo": 3, "texto": "O estudo dos cl&aacute;ssicos na forma&ccedil;&atilde;o de profesosres do ensino fundamental", "link": "uploads/PROJETO5.doc"}
+]

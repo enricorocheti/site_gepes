@@ -1,0 +1,4 @@
+[
+{ "id": 0, "ativo": 1, "nome": "Professor1", "formacao": "UFABC"},
+{ "id": 1, "ativo": 1, "nome": "Professor2", "formacao": "USP"}
+]
